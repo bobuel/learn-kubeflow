@@ -39,6 +39,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Kubeflow Fundamentals: modules/notebook-to-pipeline
   - Kale 101:
       - Home: modules/notebook-to-pipeline/index.md
       - Introduction:
